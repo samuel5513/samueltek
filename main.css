@@ -1,0 +1,33 @@
+body{  background-color: blue;
+    padding: 2mm;
+}
+#head1{
+    color: blueviolet;
+    text-align: center;
+
+}
+#head2{
+    color: cadetblue;
+    text-align: center;
+}
+#head3{
+    color: coral;
+    text-align: center;
+}
+#part1{
+    background-color: cornsilk;
+    color: crimson;
+}
+#part2{ background-image:url(images/image.jpg);
+    background-size: cover;
+    background-position:center ;
+     background-color: blue;
+    color: darkgreen;
+}
+#part3{
+    background-color: darkred;
+    color: darkseagreen;
+}
+#button{
+    text-align: center;
+}
